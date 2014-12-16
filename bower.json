@@ -1,0 +1,20 @@
+{
+  "name": "jasmine",
+  "version": "0.0.1",
+  "description": "jasmine test case",
+  "main": "src.js",
+  "keywords": [
+    "jasmine"
+  ],
+  "authors": [
+    "Galen Zhang"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
